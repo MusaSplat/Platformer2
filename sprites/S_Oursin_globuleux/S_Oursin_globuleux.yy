@@ -2,17 +2,24 @@
   "$GMSprite":"",
   "%Name":"S_Oursin_globuleux",
   "bboxMode":0,
-  "bbox_bottom":52,
-  "bbox_left":12,
-  "bbox_right":51,
-  "bbox_top":17,
+  "bbox_bottom":63,
+  "bbox_left":0,
+  "bbox_right":63,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3742441a-038c-45a2-9300-31036c6a7116","name":"3742441a-038c-45a2-9300-31036c6a7116","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"54121d15-dab7-45bb-92a2-cb9d5550763c","name":"54121d15-dab7-45bb-92a2-cb9d5550763c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"755e832a-5080-4cf2-ad1b-eda905c0fde9","name":"755e832a-5080-4cf2-ad1b-eda905c0fde9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"02823ba7-ee57-49ea-add0-a7de50d2056d","name":"02823ba7-ee57-49ea-add0-a7de50d2056d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"04ad9e1f-0c7e-443b-a489-a850218508ea","name":"04ad9e1f-0c7e-443b-a489-a850218508ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"267be63a-43b0-4cf7-8a92-e1122ee9eff3","name":"267be63a-43b0-4cf7-8a92-e1122ee9eff3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3c1ccc8f-dad4-4cb1-93c2-abfa0b669f9d","name":"3c1ccc8f-dad4-4cb1-93c2-abfa0b669f9d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3b760adc-819b-4d82-bc4a-3b197eb40676","name":"3b760adc-819b-4d82-bc4a-3b197eb40676","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -20,6 +27,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","blendMode":0,"displayName":"default","isLocked":false,"name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab3bb09b-4895-44df-ba26-93dd012880a3","blendMode":0,"displayName":"default","isLocked":false,"name":"ab3bb09b-4895-44df-ba26-93dd012880a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Oursin_globuleux",
   "nineSlice":null,
@@ -49,7 +57,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":8.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +67,7 @@
     },
     "name":"S_Oursin_globuleux",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":3.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +77,29 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0ffe90e7-2976-4227-b825-dd962e43b713","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3742441a-038c-45a2-9300-31036c6a7116","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"01dc1584-4f8a-4cd3-9e63-8d1c03c64dc5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"54121d15-dab7-45bb-92a2-cb9d5550763c","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8c10c246-1866-4f05-a838-f5a031163757","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"755e832a-5080-4cf2-ad1b-eda905c0fde9","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"03b4fbca-9b55-41c0-9299-591b7577ddf4","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"02823ba7-ee57-49ea-add0-a7de50d2056d","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d4ed6112-860e-4920-936f-c8491117338e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04ad9e1f-0c7e-443b-a489-a850218508ea","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e3ade8be-fc66-4ef8-b36e-320ee546d161","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"267be63a-43b0-4cf7-8a92-e1122ee9eff3","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a1cd6cd2-05b8-46ce-8397-c8d6e64040ca","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3c1ccc8f-dad4-4cb1-93c2-abfa0b669f9d","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"682810a4-c72c-4e78-9e71-20f84a2ad6fb","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3b760adc-819b-4d82-bc4a-3b197eb40676","path":"sprites/S_Oursin_globuleux/S_Oursin_globuleux.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a7310edb-07fb-4a81-b3dd-a7d2a7731cca","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

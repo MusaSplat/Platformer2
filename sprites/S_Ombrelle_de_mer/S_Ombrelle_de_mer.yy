@@ -2,17 +2,24 @@
   "$GMSprite":"",
   "%Name":"S_Ombrelle_de_mer",
   "bboxMode":0,
-  "bbox_bottom":60,
-  "bbox_left":12,
-  "bbox_right":55,
-  "bbox_top":13,
+  "bbox_bottom":63,
+  "bbox_left":0,
+  "bbox_right":63,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7518d8bb-a2a1-4a85-80df-46813dbc572a","name":"7518d8bb-a2a1-4a85-80df-46813dbc572a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c55b2c8e-2252-4267-9a59-93275888d1da","name":"c55b2c8e-2252-4267-9a59-93275888d1da","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"46e6029f-db76-4d3f-8033-79aff0b1c7b3","name":"46e6029f-db76-4d3f-8033-79aff0b1c7b3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"55ca506b-fe8f-408f-9071-198ff9378f94","name":"55ca506b-fe8f-408f-9071-198ff9378f94","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"cf80429d-9c06-4d06-af8e-216eb380f131","name":"cf80429d-9c06-4d06-af8e-216eb380f131","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1e0aadd0-f805-4a7f-98bc-799d928c6edd","name":"1e0aadd0-f805-4a7f-98bc-799d928c6edd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"12d79229-056c-469f-848a-b3f139e24259","name":"12d79229-056c-469f-848a-b3f139e24259","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d025343d-572e-40b2-99c9-48280138048a","name":"d025343d-572e-40b2-99c9-48280138048a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -20,6 +27,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","blendMode":0,"displayName":"default","isLocked":false,"name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab3bb09b-4895-44df-ba26-93dd012880a3","blendMode":0,"displayName":"default","isLocked":false,"name":"ab3bb09b-4895-44df-ba26-93dd012880a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Ombrelle_de_mer",
   "nineSlice":null,
@@ -49,7 +57,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":8.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +67,7 @@
     },
     "name":"S_Ombrelle_de_mer",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":3.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +77,29 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0ffe90e7-2976-4227-b825-dd962e43b713","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7518d8bb-a2a1-4a85-80df-46813dbc572a","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"93d0fda9-a991-4930-9dd7-975522a6ad6b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c55b2c8e-2252-4267-9a59-93275888d1da","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c0d284d3-cd80-4e10-a2d8-2a3eb3ee07ca","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"46e6029f-db76-4d3f-8033-79aff0b1c7b3","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"76d6d583-90d9-4cfc-9bcf-b63945ea2bab","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"55ca506b-fe8f-408f-9071-198ff9378f94","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4f353133-b22d-4d66-9fe6-ce077cfeb5e3","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cf80429d-9c06-4d06-af8e-216eb380f131","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3fd6c3c2-521a-44c5-b719-ed0b519150b3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1e0aadd0-f805-4a7f-98bc-799d928c6edd","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"26a39362-cc11-4545-8ea8-ecedc34c832f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12d79229-056c-469f-848a-b3f139e24259","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"53f505f8-cbe7-4909-aaf5-195131e876c7","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d025343d-572e-40b2-99c9-48280138048a","path":"sprites/S_Ombrelle_de_mer/S_Ombrelle_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e502ceb8-860b-4dd0-9543-e7ef9798c7dc","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

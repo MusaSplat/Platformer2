@@ -73,9 +73,11 @@
     {"id":{"name":"O_Roche","path":"objects/O_Roche/O_Roche.yy",},},
     {"id":{"name":"O_ScoreVie","path":"objects/O_ScoreVie/O_ScoreVie.yy",},},
     {"id":{"name":"O_Turquoise","path":"objects/O_Turquoise/O_Turquoise.yy",},},
+    {"id":{"name":"O_Victoire","path":"objects/O_Victoire/O_Victoire.yy",},},
     {"id":{"name":"O_Vie","path":"objects/O_Vie/O_Vie.yy",},},
     {"id":{"name":"O_Volcan","path":"objects/O_Volcan/O_Volcan.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"S_Algue","path":"sprites/S_Algue/S_Algue.yy",},},
     {"id":{"name":"S_Ambre","path":"sprites/S_Ambre/S_Ambre.yy",},},
     {"id":{"name":"S_Amethyste","path":"sprites/S_Amethyste/S_Amethyste.yy",},},
@@ -102,6 +104,7 @@
     {"id":{"name":"S_Quartz_rose","path":"sprites/S_Quartz_rose/S_Quartz_rose.yy",},},
     {"id":{"name":"S_Roche","path":"sprites/S_Roche/S_Roche.yy",},},
     {"id":{"name":"S_Turquoise","path":"sprites/S_Turquoise/S_Turquoise.yy",},},
+    {"id":{"name":"S_Victoire","path":"sprites/S_Victoire/S_Victoire.yy",},},
     {"id":{"name":"S_Vie","path":"sprites/S_Vie/S_Vie.yy",},},
     {"id":{"name":"S_Volcan","path":"sprites/S_Volcan/S_Volcan.yy",},},
   ],
@@ -109,6 +112,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

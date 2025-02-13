@@ -2,17 +2,24 @@
   "$GMSprite":"",
   "%Name":"S_Eponge_de_mer",
   "bboxMode":0,
-  "bbox_bottom":57,
-  "bbox_left":4,
-  "bbox_right":58,
-  "bbox_top":13,
+  "bbox_bottom":63,
+  "bbox_left":0,
+  "bbox_right":63,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"854f9673-c9d7-44fa-9346-5cfdcbc3ef97","name":"854f9673-c9d7-44fa-9346-5cfdcbc3ef97","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"5f322ca4-6dac-4921-b62b-6daaf9be433e","name":"5f322ca4-6dac-4921-b62b-6daaf9be433e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0832315f-a5a4-414d-a625-57915428ac10","name":"0832315f-a5a4-414d-a625-57915428ac10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3bf7c989-d245-4dbb-9434-17c29494dbce","name":"3bf7c989-d245-4dbb-9434-17c29494dbce","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0d7c3451-da9a-482b-adda-af1e47c180be","name":"0d7c3451-da9a-482b-adda-af1e47c180be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3e129c24-ec76-4640-93a0-5e79c8cbda85","name":"3e129c24-ec76-4640-93a0-5e79c8cbda85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8d163458-a4b3-4310-8062-b00a44b2004f","name":"8d163458-a4b3-4310-8062-b00a44b2004f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0473e59a-fde8-4116-b2c4-1634a9cd6571","name":"0473e59a-fde8-4116-b2c4-1634a9cd6571","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -20,6 +27,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","blendMode":0,"displayName":"default","isLocked":false,"name":"2eca8b65-407d-4425-9a4f-9e2bf0f1bcc2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab3bb09b-4895-44df-ba26-93dd012880a3","blendMode":0,"displayName":"default","isLocked":false,"name":"ab3bb09b-4895-44df-ba26-93dd012880a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Eponge_de_mer",
   "nineSlice":null,
@@ -49,7 +57,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":8.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +67,7 @@
     },
     "name":"S_Eponge_de_mer",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":3.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +77,29 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d23667b-cb52-43a3-b03f-c9b23ac9fdf9","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0ffe90e7-2976-4227-b825-dd962e43b713","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"854f9673-c9d7-44fa-9346-5cfdcbc3ef97","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"89304d80-e8dd-4081-badb-859541cf0d37","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5f322ca4-6dac-4921-b62b-6daaf9be433e","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"38a03fe0-dd58-466e-b82e-484f0aa3d0de","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0832315f-a5a4-414d-a625-57915428ac10","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3d9a99c1-a1ab-481d-9329-2d9328154d77","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3bf7c989-d245-4dbb-9434-17c29494dbce","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4e94231e-e06f-4904-995e-102fe151155a","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d7c3451-da9a-482b-adda-af1e47c180be","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8554aaef-7f04-46b5-96e7-8088ea473c82","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e129c24-ec76-4640-93a0-5e79c8cbda85","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b97053bc-692e-4466-88bf-8ba431130bbc","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8d163458-a4b3-4310-8062-b00a44b2004f","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5e600cf3-3597-4c11-bce4-059238f8fd2c","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0473e59a-fde8-4116-b2c4-1634a9cd6571","path":"sprites/S_Eponge_de_mer/S_Eponge_de_mer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7dfd51a9-6214-4e20-9e6b-73312ad5d468","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

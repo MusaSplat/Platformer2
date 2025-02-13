@@ -26,3 +26,14 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDParent : 755D43AB
 	/// @DnDArgument : "steps" "160"
 	alarm_set(0, 160);}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 30A628B6
+/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "op" "3"
+if(hp <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0D340117
+	/// @DnDParent : 30A628B6
+	instance_destroy();}
