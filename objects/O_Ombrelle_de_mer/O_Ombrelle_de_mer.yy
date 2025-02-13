@@ -10,8 +10,8 @@
     "path":"folders/Objects/Plante.yy",
   },
   "parentObjectId":{
-    "name":"O_Pierreprecieuse_et_plante",
-    "path":"objects/O_Pierreprecieuse_et_plante/O_Pierreprecieuse_et_plante.yy",
+    "name":"O_Corail_branchu",
+    "path":"objects/O_Corail_branchu/O_Corail_branchu.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -26,7 +26,9 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"collectibleobject1","filters":[],"listItems":[],"multiselect":false,"name":"collectibleobject1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

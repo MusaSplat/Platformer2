@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"O_Ambre",
-  "eventList":[],
+  "%Name":"O_Vie",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_Ambre",
+  "name":"O_Vie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pierre précieuse",
-    "path":"folders/Objects/Pierre précieuse.yy",
+    "name":"Autre",
+    "path":"folders/Objects/Autre.yy",
   },
-  "parentObjectId":{
-    "name":"O_Corail_branchu",
-    "path":"objects/O_Corail_branchu/O_Corail_branchu.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Ambre",
-    "path":"sprites/S_Ambre/S_Ambre.yy",
+    "name":"S_Vie",
+    "path":"sprites/S_Vie/S_Vie.yy",
   },
   "spriteMaskId":null,
   "visible":true,

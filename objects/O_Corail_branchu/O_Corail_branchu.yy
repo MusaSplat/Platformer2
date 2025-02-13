@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Corail_branchu",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Corail_branchu",
   "overriddenProperties":[],
@@ -9,10 +11,7 @@
     "name":"Plante",
     "path":"folders/Objects/Plante.yy",
   },
-  "parentObjectId":{
-    "name":"O_Pierreprecieuse_et_plante",
-    "path":"objects/O_Pierreprecieuse_et_plante/O_Pierreprecieuse_et_plante.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

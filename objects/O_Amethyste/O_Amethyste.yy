@@ -10,8 +10,8 @@
     "path":"folders/Objects/Pierre précieuse.yy",
   },
   "parentObjectId":{
-    "name":"O_Pierreprecieuse_et_plante",
-    "path":"objects/O_Pierreprecieuse_et_plante/O_Pierreprecieuse_et_plante.yy",
+    "name":"O_Corail_branchu",
+    "path":"objects/O_Corail_branchu/O_Corail_branchu.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
